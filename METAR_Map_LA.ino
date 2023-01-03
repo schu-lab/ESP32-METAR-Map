@@ -1,5 +1,5 @@
 // Author: Simon Chu
-// Date: 2022-01-02
+// Date: 2023-01-02
 // Based on Rick Gouin METAR Weather Map.
 
 #include <ESP8266WiFi.h>
