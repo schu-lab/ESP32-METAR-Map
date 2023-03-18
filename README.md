@@ -8,9 +8,8 @@
 Based on Rick Gouin Metar Map: https://www.rickgouin.com/make-your-own-metar-weather-map/
 
 Features:
-LED indication for various weather stations in the Los Angelos Region.
-OLED Screen for additional data for John Wayne/Santa Ana Airport Weather Station.
-
+1. LED indication for various weather stations in the Los Angelos Region.
+2. OLED Screen for additional data for John Wayne/Santa Ana Airport Weather Station.
 
 Hardware:
 1. NodeMCU ESP-12E with Wifi Module
