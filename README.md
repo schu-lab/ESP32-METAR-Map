@@ -1,8 +1,8 @@
 # METAR_Map REV B
 
 <p align="center">
-  <img src=https://github.com/schu-lab/METAR_Map/blob/main/IMG_9553.jpg height="400" />
-  <img src=https://github.com/schu-lab/METAR_Map/blob/main/IMG_9548.jpg height="400" />
+  <img src=https://github.com/schu-lab/METAR_Map/blob/main/IMG_9553.jpg height="300 />
+  <img src=https://github.com/schu-lab/METAR_Map/blob/main/IMG_9548.jpg height="300" />
 </p>
 
 Based on Rick Gouin Metar Map: https://www.rickgouin.com/make-your-own-metar-weather-map/
