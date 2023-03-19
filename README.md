@@ -1,7 +1,7 @@
 # METAR_Map
 
 <p align="center">
-  <img src=https://github.com/schu-lab/METAR_Map/blob/main/IMG_9553.jpg height="400" />
+  <img src=https://github.com/schu-lab/METAR_Map/blob/main/IMG_9553.jpg height="600" />
   <img src=https://github.com/schu-lab/METAR_Map/blob/main/IMG_9548.jpg height="400" />
 </p>
 
